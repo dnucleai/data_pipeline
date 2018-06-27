@@ -1,15 +1,15 @@
 ############################################################################
-                       # Document Class - JSON-stored object
+                       # Tag Class - JSON-stored object
 ############################################################################
-"""This is the Document class stored on the database in JSON, contains metadata 
+"""This is the Tag class stored on the database in JSON, contains metadata
 tags and query keywords for fast lookup via LDA
 """
 
 import json
 import pandas as pd
 
-class Document(Object):
-    """Document class - JSON serializable object created from a Pandas
+class Tag(Object):
+    """Tag class - JSON serializable object created from a Pandas
     data frame and metadata tags
     
     documentName - title of the document

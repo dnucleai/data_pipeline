@@ -1,3 +1,6 @@
+from parsers.cleaner import Cleaner
+
+
 class Document:
     def __init__(self, index_name, contents):
         """
@@ -7,7 +10,7 @@ class Document:
         :param property_mapping: Explicit mapping of field names to data types
         :param contents: Explicit mapping of field names to content values
         """
-        self.index_name = index_name.lower().replace(" ", "_")
+        self.index_name = Cleaner.format_es_fields(index_name)
         self.contents = contents
 
     def get_es_document(self):

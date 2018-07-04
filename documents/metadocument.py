@@ -1,3 +1,6 @@
+from parsers.cleaner import Cleaner
+
+
 class Metadocument:
     TYPE = "metadata_on_datasets_type"
     INDEX_NAME = "metadata_on_datasets"
@@ -31,15 +34,20 @@ class Metadocument:
         },
         "dataset_attributes": {
             "type":"keyword"
+        },
+        "dataset_num_docs": {
+            "type": "long"
         }
     }
 
-    def __init__(self, contents):
+    def __init__(self, contents, content_name):
         self.contents = contents
+        self.id = Cleaner.format_es_fields(content_name)
 
     def get_es_document(self):
         return {
             "_index": Metadocument.INDEX_NAME,
+            "_id": self.id,
             "_type": Metadocument.TYPE,
             "_source": self.contents,
 

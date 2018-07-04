@@ -18,6 +18,10 @@ class Cleaner:
         pass
 
     @staticmethod
+    def format_es_fields(text):
+        return text.lower().replace(" ", "_")
+
+    @staticmethod
     def clean(text):
         ascii_text = Cleaner.__remove_non_ascii_chars(text)
         ascii_no_stop_words_text = Cleaner.__remove_stop_words(ascii_text)

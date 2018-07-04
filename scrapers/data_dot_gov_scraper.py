@@ -19,7 +19,10 @@ class DataDotGovScraper:
             response = urllib2.urlopen(
                 'https://catalog.data.gov/api/3/search/dataset?q=' + uri_encoded_query + '&sort=score+desc&start=' +
                 str(start) + '&rows=' + str(rows))
-            package_names.extend(json.loads(response.read())["results"])
+            response = json.loads(response.read())
+            if response["count"] == 0:
+                break
+            package_names.extend(response["results"])
             start += rows
         return package_names
 

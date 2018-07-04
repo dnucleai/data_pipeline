@@ -46,5 +46,6 @@ class Ingestor:
             "time_created": dataset_creation_time,
             "dataset_source": dataset_source,
             "dataset_attributes": dataset_attributes,
+            "dataset_num_docs": len(es_documents),
         }
-        self.es.bulk_upload([Metadocument(metadocument).get_es_document()])
+        self.es.bulk_upload([Metadocument(metadocument, dataset_name).get_es_document()])

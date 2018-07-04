@@ -1,0 +1,1385 @@
+Month Key,Month-Year,Destination Code,Destination Name,Transport Count
+201210,10/01/2012 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,55
+201210,10/01/2012 12:00:00 AM,DCMC,Dell Children's Medical Center,332
+201210,10/01/2012 12:00:00 AM,HHOA,Heart Hospital of Austin,60
+201210,10/01/2012 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,73
+201210,10/01/2012 12:00:00 AM,NAMC,North Austin Medical Center,728
+201210,10/01/2012 12:00:00 AM,OTH,Other/Missing,11
+201210,10/01/2012 12:00:00 AM,SAMC,South Austin Medical Center,1205
+201210,10/01/2012 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,18
+201210,10/01/2012 12:00:00 AM,SDMC,Saint David's Medical Center,972
+201210,10/01/2012 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,28
+201210,10/01/2012 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,224
+201210,10/01/2012 12:00:00 AM,SMC,Seton Medical Center Austin,774
+201210,10/01/2012 12:00:00 AM,SMCH,Seton Medical Center Hays,25
+201210,10/01/2012 12:00:00 AM,SMCW,Seton Medical Center Williamson,43
+201210,10/01/2012 12:00:00 AM,SNW,Seton Northwest Hospital,224
+201210,10/01/2012 12:00:00 AM,SSW,Seton Southwest Hospital,38
+201210,10/01/2012 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,35
+201210,10/01/2012 12:00:00 AM,UMCB,University Medical Center Brackenridge,1481
+201210,10/01/2012 12:00:00 AM,WMC,Westlake Medical Center,38
+201211,11/01/2012 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,50
+201211,11/01/2012 12:00:00 AM,DCMC,Dell Children's Medical Center,353
+201211,11/01/2012 12:00:00 AM,HHOA,Heart Hospital of Austin,77
+201211,11/01/2012 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,104
+201211,11/01/2012 12:00:00 AM,NAMC,North Austin Medical Center,611
+201211,11/01/2012 12:00:00 AM,OTH,Other/Missing,20
+201211,11/01/2012 12:00:00 AM,SAMC,South Austin Medical Center,1142
+201211,11/01/2012 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,8
+201211,11/01/2012 12:00:00 AM,SDMC,Saint David's Medical Center,937
+201211,11/01/2012 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,38
+201211,11/01/2012 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,217
+201211,11/01/2012 12:00:00 AM,SMC,Seton Medical Center Austin,712
+201211,11/01/2012 12:00:00 AM,SMCH,Seton Medical Center Hays,38
+201211,11/01/2012 12:00:00 AM,SMCW,Seton Medical Center Williamson,36
+201211,11/01/2012 12:00:00 AM,SNW,Seton Northwest Hospital,197
+201211,11/01/2012 12:00:00 AM,SSW,Seton Southwest Hospital,41
+201211,11/01/2012 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,38
+201211,11/01/2012 12:00:00 AM,UMCB,University Medical Center Brackenridge,1400
+201211,11/01/2012 12:00:00 AM,WMC,Westlake Medical Center,31
+201212,12/01/2012 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,53
+201212,12/01/2012 12:00:00 AM,DCMC,Dell Children's Medical Center,338
+201212,12/01/2012 12:00:00 AM,HHOA,Heart Hospital of Austin,60
+201212,12/01/2012 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,93
+201212,12/01/2012 12:00:00 AM,NAMC,North Austin Medical Center,605
+201212,12/01/2012 12:00:00 AM,OTH,Other/Missing,18
+201212,12/01/2012 12:00:00 AM,SAMC,South Austin Medical Center,1164
+201212,12/01/2012 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,11
+201212,12/01/2012 12:00:00 AM,SDMC,Saint David's Medical Center,955
+201212,12/01/2012 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,43
+201212,12/01/2012 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,249
+201212,12/01/2012 12:00:00 AM,SMC,Seton Medical Center Austin,736
+201212,12/01/2012 12:00:00 AM,SMCH,Seton Medical Center Hays,39
+201212,12/01/2012 12:00:00 AM,SMCW,Seton Medical Center Williamson,47
+201212,12/01/2012 12:00:00 AM,SNW,Seton Northwest Hospital,252
+201212,12/01/2012 12:00:00 AM,SSW,Seton Southwest Hospital,31
+201212,12/01/2012 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,38
+201212,12/01/2012 12:00:00 AM,UMCB,University Medical Center Brackenridge,1331
+201212,12/01/2012 12:00:00 AM,WMC,Westlake Medical Center,31
+201301,01/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,75
+201301,01/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,302
+201301,01/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,68
+201301,01/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,104
+201301,01/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,701
+201301,01/01/2013 12:00:00 AM,OTH,Other/Missing,9
+201301,01/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1193
+201301,01/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,8
+201301,01/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,1018
+201301,01/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,29
+201301,01/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,194
+201301,01/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,724
+201301,01/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,26
+201301,01/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,46
+201301,01/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,272
+201301,01/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,52
+201301,01/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,26
+201301,01/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1366
+201301,01/01/2013 12:00:00 AM,WMC,Westlake Medical Center,44
+201302,02/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,49
+201302,02/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,284
+201302,02/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,63
+201302,02/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,67
+201302,02/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,627
+201302,02/01/2013 12:00:00 AM,OTH,Other/Missing,15
+201302,02/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1021
+201302,02/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,10
+201302,02/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,862
+201302,02/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,24
+201302,02/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,204
+201302,02/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,638
+201302,02/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,19
+201302,02/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,42
+201302,02/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,219
+201302,02/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,32
+201302,02/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,25
+201302,02/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1290
+201302,02/01/2013 12:00:00 AM,WMC,Westlake Medical Center,36
+201303,03/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,64
+201303,03/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,317
+201303,03/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,66
+201303,03/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,101
+201303,03/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,702
+201303,03/01/2013 12:00:00 AM,OTH,Other/Missing,13
+201303,03/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1239
+201303,03/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,8
+201303,03/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,994
+201303,03/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,28
+201303,03/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,252
+201303,03/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,740
+201303,03/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,37
+201303,03/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,36
+201303,03/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,208
+201303,03/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,39
+201303,03/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,39
+201303,03/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1608
+201303,03/01/2013 12:00:00 AM,WMC,Westlake Medical Center,27
+201304,04/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,63
+201304,04/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,313
+201304,04/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,71
+201304,04/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,93
+201304,04/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,692
+201304,04/01/2013 12:00:00 AM,OTH,Other/Missing,19
+201304,04/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1199
+201304,04/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,9
+201304,04/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,970
+201304,04/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,20
+201304,04/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,222
+201304,04/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,676
+201304,04/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,23
+201304,04/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,36
+201304,04/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,248
+201304,04/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,28
+201304,04/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,30
+201304,04/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1521
+201304,04/01/2013 12:00:00 AM,WMC,Westlake Medical Center,38
+201305,05/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,78
+201305,05/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,305
+201305,05/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,73
+201305,05/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,106
+201305,05/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,700
+201305,05/01/2013 12:00:00 AM,OTH,Other/Missing,21
+201305,05/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1236
+201305,05/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,8
+201305,05/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,1034
+201305,05/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,24
+201305,05/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,219
+201305,05/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,711
+201305,05/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,21
+201305,05/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,46
+201305,05/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,235
+201305,05/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,45
+201305,05/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,31
+201305,05/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1640
+201305,05/01/2013 12:00:00 AM,WMC,Westlake Medical Center,42
+201306,06/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,72
+201306,06/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,298
+201306,06/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,63
+201306,06/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,105
+201306,06/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,717
+201306,06/01/2013 12:00:00 AM,OTH,Other/Missing,22
+201306,06/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1198
+201306,06/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,17
+201306,06/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,962
+201306,06/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,44
+201306,06/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,214
+201306,06/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,719
+201306,06/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,24
+201306,06/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,35
+201306,06/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,233
+201306,06/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,31
+201306,06/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,61
+201306,06/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1784
+201306,06/01/2013 12:00:00 AM,WMC,Westlake Medical Center,40
+201307,07/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,65
+201307,07/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,251
+201307,07/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,65
+201307,07/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,105
+201307,07/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,698
+201307,07/01/2013 12:00:00 AM,OTH,Other/Missing,17
+201307,07/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1193
+201307,07/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,17
+201307,07/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,995
+201307,07/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,30
+201307,07/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,221
+201307,07/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,768
+201307,07/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,23
+201307,07/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,44
+201307,07/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,238
+201307,07/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,19
+201307,07/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,37
+201307,07/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1703
+201307,07/01/2013 12:00:00 AM,WMC,Westlake Medical Center,31
+201308,08/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,61
+201308,08/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,235
+201308,08/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,60
+201308,08/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,113
+201308,08/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,715
+201308,08/01/2013 12:00:00 AM,OTH,Other/Missing,14
+201308,08/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1144
+201308,08/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,15
+201308,08/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,978
+201308,08/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,38
+201308,08/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,243
+201308,08/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,690
+201308,08/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,37
+201308,08/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,36
+201308,08/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,222
+201308,08/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,26
+201308,08/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,24
+201308,08/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1589
+201308,08/01/2013 12:00:00 AM,WMC,Westlake Medical Center,45
+201309,09/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,86
+201309,09/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,261
+201309,09/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,64
+201309,09/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,111
+201309,09/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,679
+201309,09/01/2013 12:00:00 AM,OTH,Other/Missing,12
+201309,09/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1149
+201309,09/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,15
+201309,09/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,935
+201309,09/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,28
+201309,09/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,247
+201309,09/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,660
+201309,09/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,42
+201309,09/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,46
+201309,09/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,213
+201309,09/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,34
+201309,09/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,50
+201309,09/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1558
+201309,09/01/2013 12:00:00 AM,WMC,Westlake Medical Center,34
+201310,10/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,45
+201310,10/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,272
+201310,10/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,70
+201310,10/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,70
+201310,10/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,694
+201310,10/01/2013 12:00:00 AM,OTH,Other/Missing,17
+201310,10/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1210
+201310,10/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,7
+201310,10/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,917
+201310,10/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,30
+201310,10/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,238
+201310,10/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,720
+201310,10/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,30
+201310,10/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,34
+201310,10/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,224
+201310,10/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,42
+201310,10/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,35
+201310,10/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1694
+201310,10/01/2013 12:00:00 AM,WMC,Westlake Medical Center,26
+201311,11/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,54
+201311,11/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,302
+201311,11/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,49
+201311,11/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,97
+201311,11/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,716
+201311,11/01/2013 12:00:00 AM,OTH,Other/Missing,23
+201311,11/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1155
+201311,11/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,10
+201311,11/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,860
+201311,11/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,30
+201311,11/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,240
+201311,11/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,669
+201311,11/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,43
+201311,11/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,39
+201311,11/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,219
+201311,11/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,34
+201311,11/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,53
+201311,11/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1480
+201311,11/01/2013 12:00:00 AM,WMC,Westlake Medical Center,23
+201312,12/01/2013 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,68
+201312,12/01/2013 12:00:00 AM,DCMC,Dell Children's Medical Center,310
+201312,12/01/2013 12:00:00 AM,HHOA,Heart Hospital of Austin,62
+201312,12/01/2013 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,126
+201312,12/01/2013 12:00:00 AM,NAMC,North Austin Medical Center,722
+201312,12/01/2013 12:00:00 AM,OTH,Other/Missing,22
+201312,12/01/2013 12:00:00 AM,SAMC,South Austin Medical Center,1156
+201312,12/01/2013 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,12
+201312,12/01/2013 12:00:00 AM,SDMC,Saint David's Medical Center,957
+201312,12/01/2013 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,40
+201312,12/01/2013 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,239
+201312,12/01/2013 12:00:00 AM,SMC,Seton Medical Center Austin,716
+201312,12/01/2013 12:00:00 AM,SMCH,Seton Medical Center Hays,32
+201312,12/01/2013 12:00:00 AM,SMCW,Seton Medical Center Williamson,35
+201312,12/01/2013 12:00:00 AM,SNW,Seton Northwest Hospital,255
+201312,12/01/2013 12:00:00 AM,SSW,Seton Southwest Hospital,35
+201312,12/01/2013 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,43
+201312,12/01/2013 12:00:00 AM,UMCB,University Medical Center Brackenridge,1547
+201312,12/01/2013 12:00:00 AM,WMC,Westlake Medical Center,31
+201401,01/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,83
+201401,01/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,276
+201401,01/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,59
+201401,01/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,103
+201401,01/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,787
+201401,01/01/2014 12:00:00 AM,OTH,Other/Missing,15
+201401,01/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1142
+201401,01/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,14
+201401,01/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,1035
+201401,01/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,43
+201401,01/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,265
+201401,01/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,723
+201401,01/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,33
+201401,01/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,39
+201401,01/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,260
+201401,01/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,49
+201401,01/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,53
+201401,01/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1456
+201401,01/01/2014 12:00:00 AM,WMC,Westlake Medical Center,40
+201402,02/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,53
+201402,02/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,278
+201402,02/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,60
+201402,02/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,91
+201402,02/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,656
+201402,02/01/2014 12:00:00 AM,OTH,Other/Missing,11
+201402,02/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1098
+201402,02/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,9
+201402,02/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,856
+201402,02/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,21
+201402,02/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,223
+201402,02/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,628
+201402,02/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,36
+201402,02/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,37
+201402,02/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,232
+201402,02/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,33
+201402,02/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,44
+201402,02/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1318
+201402,02/01/2014 12:00:00 AM,WMC,Westlake Medical Center,39
+201403,03/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,72
+201403,03/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,295
+201403,03/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,94
+201403,03/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,119
+201403,03/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,695
+201403,03/01/2014 12:00:00 AM,OTH,Other/Missing,18
+201403,03/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1228
+201403,03/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,20
+201403,03/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,1067
+201403,03/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,45
+201403,03/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,249
+201403,03/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,737
+201403,03/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,29
+201403,03/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,45
+201403,03/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,233
+201403,03/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,32
+201403,03/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,47
+201403,03/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1642
+201403,03/01/2014 12:00:00 AM,WMC,Westlake Medical Center,38
+201404,04/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,72
+201404,04/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,277
+201404,04/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,59
+201404,04/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,82
+201404,04/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,729
+201404,04/01/2014 12:00:00 AM,OTH,Other/Missing,21
+201404,04/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1212
+201404,04/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,12
+201404,04/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,1048
+201404,04/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,22
+201404,04/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,218
+201404,04/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,680
+201404,04/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,42
+201404,04/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,39
+201404,04/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,226
+201404,04/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,37
+201404,04/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,49
+201404,04/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1494
+201404,04/01/2014 12:00:00 AM,WMC,Westlake Medical Center,27
+201405,05/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,65
+201405,05/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,365
+201405,05/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,70
+201405,05/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,95
+201405,05/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,693
+201405,05/01/2014 12:00:00 AM,OTH,Other/Missing,18
+201405,05/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1365
+201405,05/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,11
+201405,05/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,993
+201405,05/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,20
+201405,05/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,263
+201405,05/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,670
+201405,05/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,50
+201405,05/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,43
+201405,05/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,247
+201405,05/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,47
+201405,05/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,28
+201405,05/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1695
+201405,05/01/2014 12:00:00 AM,WMC,Westlake Medical Center,39
+201406,06/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,76
+201406,06/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,287
+201406,06/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,65
+201406,06/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,98
+201406,06/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,732
+201406,06/01/2014 12:00:00 AM,OTH,Other/Missing,18
+201406,06/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1166
+201406,06/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,6
+201406,06/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,990
+201406,06/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,25
+201406,06/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,252
+201406,06/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,708
+201406,06/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,36
+201406,06/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,36
+201406,06/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,243
+201406,06/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,35
+201406,06/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,43
+201406,06/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1613
+201406,06/01/2014 12:00:00 AM,WMC,Westlake Medical Center,29
+201407,07/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,58
+201407,07/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,255
+201407,07/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,53
+201407,07/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,110
+201407,07/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,698
+201407,07/01/2014 12:00:00 AM,OTH,Other/Missing,21
+201407,07/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1269
+201407,07/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,14
+201407,07/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,994
+201407,07/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,18
+201407,07/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,232
+201407,07/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,698
+201407,07/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,39
+201407,07/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,29
+201407,07/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,252
+201407,07/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,35
+201407,07/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,45
+201407,07/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1747
+201407,07/01/2014 12:00:00 AM,WMC,Westlake Medical Center,38
+201408,08/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,72
+201408,08/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,241
+201408,08/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,50
+201408,08/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,77
+201408,08/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,700
+201408,08/01/2014 12:00:00 AM,OTH,Other/Missing,22
+201408,08/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1249
+201408,08/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,11
+201408,08/01/2014 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,6
+201408,08/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,985
+201408,08/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,38
+201408,08/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,282
+201408,08/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,689
+201408,08/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,46
+201408,08/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,42
+201408,08/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,247
+201408,08/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,33
+201408,08/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,41
+201408,08/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1702
+201408,08/01/2014 12:00:00 AM,WMC,Westlake Medical Center,37
+201409,09/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,55
+201409,09/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,320
+201409,09/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,47
+201409,09/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,90
+201409,09/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,715
+201409,09/01/2014 12:00:00 AM,OTH,Other/Missing,30
+201409,09/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1222
+201409,09/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,13
+201409,09/01/2014 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,5
+201409,09/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,975
+201409,09/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,17
+201409,09/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,217
+201409,09/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,725
+201409,09/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,46
+201409,09/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,33
+201409,09/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,239
+201409,09/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,35
+201409,09/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,43
+201409,09/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1711
+201409,09/01/2014 12:00:00 AM,WMC,Westlake Medical Center,36
+201410,10/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,43
+201410,10/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,293
+201410,10/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,61
+201410,10/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,118
+201410,10/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,788
+201410,10/01/2014 12:00:00 AM,OTH,Other/Missing,23
+201410,10/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1342
+201410,10/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,11
+201410,10/01/2014 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,12
+201410,10/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,952
+201410,10/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,24
+201410,10/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,279
+201410,10/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,757
+201410,10/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,39
+201410,10/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,41
+201410,10/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,259
+201410,10/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,31
+201410,10/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,31
+201410,10/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1687
+201410,10/01/2014 12:00:00 AM,WMC,Westlake Medical Center,45
+201411,11/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,64
+201411,11/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,270
+201411,11/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,75
+201411,11/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,90
+201411,11/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,736
+201411,11/01/2014 12:00:00 AM,OTH,Other/Missing,23
+201411,11/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1241
+201411,11/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,6
+201411,11/01/2014 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,7
+201411,11/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,881
+201411,11/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,18
+201411,11/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,220
+201411,11/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,664
+201411,11/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,38
+201411,11/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,27
+201411,11/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,206
+201411,11/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,29
+201411,11/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,28
+201411,11/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1546
+201411,11/01/2014 12:00:00 AM,WMC,Westlake Medical Center,37
+201412,12/01/2014 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,59
+201412,12/01/2014 12:00:00 AM,DCMC,Dell Children's Medical Center,333
+201412,12/01/2014 12:00:00 AM,HHOA,Heart Hospital of Austin,64
+201412,12/01/2014 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,111
+201412,12/01/2014 12:00:00 AM,NAMC,North Austin Medical Center,820
+201412,12/01/2014 12:00:00 AM,OTH,Other/Missing,11
+201412,12/01/2014 12:00:00 AM,SAMC,South Austin Medical Center,1298
+201412,12/01/2014 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,15
+201412,12/01/2014 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,8
+201412,12/01/2014 12:00:00 AM,SDMC,Saint David's Medical Center,915
+201412,12/01/2014 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,32
+201412,12/01/2014 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,235
+201412,12/01/2014 12:00:00 AM,SMC,Seton Medical Center Austin,722
+201412,12/01/2014 12:00:00 AM,SMCH,Seton Medical Center Hays,41
+201412,12/01/2014 12:00:00 AM,SMCW,Seton Medical Center Williamson,32
+201412,12/01/2014 12:00:00 AM,SNW,Seton Northwest Hospital,257
+201412,12/01/2014 12:00:00 AM,SSW,Seton Southwest Hospital,46
+201412,12/01/2014 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,48
+201412,12/01/2014 12:00:00 AM,UMCB,University Medical Center Brackenridge,1540
+201412,12/01/2014 12:00:00 AM,WMC,Westlake Medical Center,45
+201501,01/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,61
+201501,01/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,274
+201501,01/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,75
+201501,01/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,87
+201501,01/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,750
+201501,01/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,41
+201501,01/01/2015 12:00:00 AM,OTH,Other/Missing,19
+201501,01/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1243
+201501,01/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,7
+201501,01/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,12
+201501,01/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,983
+201501,01/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,26
+201501,01/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,248
+201501,01/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,733
+201501,01/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,41
+201501,01/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,34
+201501,01/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,248
+201501,01/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,30
+201501,01/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,42
+201501,01/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1564
+201501,01/01/2015 12:00:00 AM,WMC,Westlake Medical Center,34
+201502,02/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,72
+201502,02/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,283
+201502,02/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,48
+201502,02/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,109
+201502,02/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,682
+201502,02/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,61
+201502,02/01/2015 12:00:00 AM,OTH,Other/Missing,22
+201502,02/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1175
+201502,02/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,3
+201502,02/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,18
+201502,02/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,848
+201502,02/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,22
+201502,02/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,223
+201502,02/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,638
+201502,02/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,50
+201502,02/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,37
+201502,02/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,261
+201502,02/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,34
+201502,02/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,27
+201502,02/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1557
+201502,02/01/2015 12:00:00 AM,WMC,Westlake Medical Center,32
+201503,03/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,66
+201503,03/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,269
+201503,03/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,67
+201503,03/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,93
+201503,03/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,786
+201503,03/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,66
+201503,03/01/2015 12:00:00 AM,OTH,Other/Missing,30
+201503,03/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1350
+201503,03/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,11
+201503,03/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,11
+201503,03/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,1077
+201503,03/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,38
+201503,03/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,257
+201503,03/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,764
+201503,03/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,41
+201503,03/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,44
+201503,03/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,284
+201503,03/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,41
+201503,03/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,29
+201503,03/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1824
+201503,03/01/2015 12:00:00 AM,WMC,Westlake Medical Center,43
+201504,04/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,59
+201504,04/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,290
+201504,04/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,41
+201504,04/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,107
+201504,04/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,766
+201504,04/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,66
+201504,04/01/2015 12:00:00 AM,OTH,Other/Missing,19
+201504,04/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1334
+201504,04/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,6
+201504,04/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,10
+201504,04/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,1029
+201504,04/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,29
+201504,04/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,243
+201504,04/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,763
+201504,04/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,38
+201504,04/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,53
+201504,04/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,254
+201504,04/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,37
+201504,04/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,36
+201504,04/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1688
+201504,04/01/2015 12:00:00 AM,WMC,Westlake Medical Center,34
+201505,05/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,70
+201505,05/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,271
+201505,05/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,91
+201505,05/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,105
+201505,05/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,838
+201505,05/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,75
+201505,05/01/2015 12:00:00 AM,OTH,Other/Missing,22
+201505,05/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1425
+201505,05/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,9
+201505,05/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,10
+201505,05/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,1098
+201505,05/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,30
+201505,05/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,278
+201505,05/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,779
+201505,05/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,43
+201505,05/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,43
+201505,05/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,266
+201505,05/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,29
+201505,05/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,46
+201505,05/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1928
+201505,05/01/2015 12:00:00 AM,WMC,Westlake Medical Center,51
+201506,06/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,58
+201506,06/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,247
+201506,06/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,76
+201506,06/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,125
+201506,06/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,765
+201506,06/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,85
+201506,06/01/2015 12:00:00 AM,OTH,Other/Missing,8
+201506,06/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1415
+201506,06/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,4
+201506,06/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,11
+201506,06/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,1117
+201506,06/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,33
+201506,06/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,265
+201506,06/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,803
+201506,06/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,48
+201506,06/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,50
+201506,06/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,271
+201506,06/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,46
+201506,06/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,40
+201506,06/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1864
+201506,06/01/2015 12:00:00 AM,WMC,Westlake Medical Center,43
+201507,07/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,83
+201507,07/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,201
+201507,07/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,74
+201507,07/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,130
+201507,07/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,824
+201507,07/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,72
+201507,07/01/2015 12:00:00 AM,OTH,Other/Missing,17
+201507,07/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1368
+201507,07/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,5
+201507,07/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,11
+201507,07/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,1036
+201507,07/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,28
+201507,07/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,278
+201507,07/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,741
+201507,07/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,39
+201507,07/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,50
+201507,07/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,269
+201507,07/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,47
+201507,07/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,47
+201507,07/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1991
+201507,07/01/2015 12:00:00 AM,WMC,Westlake Medical Center,37
+201508,08/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,88
+201508,08/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,210
+201508,08/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,77
+201508,08/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,128
+201508,08/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,793
+201508,08/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,66
+201508,08/01/2015 12:00:00 AM,OTH,Other/Missing,8
+201508,08/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1411
+201508,08/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,16
+201508,08/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,13
+201508,08/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,1071
+201508,08/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,32
+201508,08/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,282
+201508,08/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,679
+201508,08/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,35
+201508,08/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,44
+201508,08/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,249
+201508,08/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,37
+201508,08/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,44
+201508,08/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1905
+201508,08/01/2015 12:00:00 AM,WMC,Westlake Medical Center,63
+201509,09/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,72
+201509,09/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,238
+201509,09/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,65
+201509,09/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,113
+201509,09/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,753
+201509,09/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,77
+201509,09/01/2015 12:00:00 AM,OTH,Other/Missing,16
+201509,09/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1342
+201509,09/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,9
+201509,09/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,10
+201509,09/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,1019
+201509,09/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,31
+201509,09/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,259
+201509,09/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,745
+201509,09/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,40
+201509,09/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,45
+201509,09/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,234
+201509,09/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,32
+201509,09/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,38
+201509,09/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1712
+201509,09/01/2015 12:00:00 AM,WMC,Westlake Medical Center,42
+201510,10/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,69
+201510,10/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,243
+201510,10/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,100
+201510,10/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,128
+201510,10/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,794
+201510,10/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,83
+201510,10/01/2015 12:00:00 AM,OTH,Other/Missing,19
+201510,10/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1346
+201510,10/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,10
+201510,10/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,12
+201510,10/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,1042
+201510,10/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,33
+201510,10/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,237
+201510,10/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,709
+201510,10/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,50
+201510,10/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,47
+201510,10/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,284
+201510,10/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,34
+201510,10/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,40
+201510,10/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1772
+201510,10/01/2015 12:00:00 AM,WMC,Westlake Medical Center,39
+201511,11/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,59
+201511,11/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,197
+201511,11/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,62
+201511,11/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,141
+201511,11/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,762
+201511,11/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,67
+201511,11/01/2015 12:00:00 AM,OTH,Other/Missing,16
+201511,11/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1228
+201511,11/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,7
+201511,11/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,4
+201511,11/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,916
+201511,11/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,14
+201511,11/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,216
+201511,11/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,580
+201511,11/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,39
+201511,11/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,50
+201511,11/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,220
+201511,11/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,33
+201511,11/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,40
+201511,11/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1618
+201511,11/01/2015 12:00:00 AM,WMC,Westlake Medical Center,33
+201512,12/01/2015 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,71
+201512,12/01/2015 12:00:00 AM,DCMC,Dell Children's Medical Center,241
+201512,12/01/2015 12:00:00 AM,HHOA,Heart Hospital of Austin,65
+201512,12/01/2015 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,127
+201512,12/01/2015 12:00:00 AM,NAMC,North Austin Medical Center,770
+201512,12/01/2015 12:00:00 AM,NAPC,North Austin - PEDI ER,76
+201512,12/01/2015 12:00:00 AM,OTH,Other/Missing,22
+201512,12/01/2015 12:00:00 AM,SAMC,South Austin Medical Center,1304
+201512,12/01/2015 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,11
+201512,12/01/2015 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,11
+201512,12/01/2015 12:00:00 AM,SDMC,Saint David's Medical Center,883
+201512,12/01/2015 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,25
+201512,12/01/2015 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,272
+201512,12/01/2015 12:00:00 AM,SMC,Seton Medical Center Austin,633
+201512,12/01/2015 12:00:00 AM,SMCH,Seton Medical Center Hays,49
+201512,12/01/2015 12:00:00 AM,SMCW,Seton Medical Center Williamson,33
+201512,12/01/2015 12:00:00 AM,SNW,Seton Northwest Hospital,196
+201512,12/01/2015 12:00:00 AM,SSW,Seton Southwest Hospital,30
+201512,12/01/2015 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,40
+201512,12/01/2015 12:00:00 AM,UMCB,University Medical Center Brackenridge,1514
+201512,12/01/2015 12:00:00 AM,WMC,Westlake Medical Center,47
+201601,01/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,67
+201601,01/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,266
+201601,01/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,60
+201601,01/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,145
+201601,01/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,785
+201601,01/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,80
+201601,01/01/2016 12:00:00 AM,OTH,Other/Missing,11
+201601,01/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1190
+201601,01/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,11
+201601,01/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,13
+201601,01/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,923
+201601,01/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,22
+201601,01/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,256
+201601,01/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,662
+201601,01/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,31
+201601,01/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,35
+201601,01/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,233
+201601,01/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,30
+201601,01/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,45
+201601,01/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1543
+201601,01/01/2016 12:00:00 AM,WMC,Westlake Medical Center,36
+201602,02/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,81
+201602,02/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,264
+201602,02/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,71
+201602,02/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,115
+201602,02/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,720
+201602,02/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,85
+201602,02/01/2016 12:00:00 AM,OTH,Other/Missing,9
+201602,02/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1287
+201602,02/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,9
+201602,02/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,12
+201602,02/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,886
+201602,02/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,30
+201602,02/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,237
+201602,02/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,592
+201602,02/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,44
+201602,02/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,64
+201602,02/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,247
+201602,02/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,33
+201602,02/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,42
+201602,02/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1453
+201602,02/01/2016 12:00:00 AM,WMC,Westlake Medical Center,33
+201603,03/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,71
+201603,03/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,246
+201603,03/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,52
+201603,03/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,134
+201603,03/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,787
+201603,03/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,109
+201603,03/01/2016 12:00:00 AM,OTH,Other/Missing,24
+201603,03/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1387
+201603,03/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,4
+201603,03/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,12
+201603,03/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,928
+201603,03/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,26
+201603,03/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,236
+201603,03/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,650
+201603,03/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,62
+201603,03/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,49
+201603,03/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,233
+201603,03/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,35
+201603,03/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,35
+201603,03/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1606
+201603,03/01/2016 12:00:00 AM,WMC,Westlake Medical Center,32
+201604,04/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,85
+201604,04/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,256
+201604,04/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,50
+201604,04/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,114
+201604,04/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,790
+201604,04/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,88
+201604,04/01/2016 12:00:00 AM,OTH,Other/Missing,16
+201604,04/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1430
+201604,04/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,9
+201604,04/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,7
+201604,04/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,883
+201604,04/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,25
+201604,04/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,242
+201604,04/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,650
+201604,04/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,42
+201604,04/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,59
+201604,04/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,253
+201604,04/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,28
+201604,04/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,39
+201604,04/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1530
+201604,04/01/2016 12:00:00 AM,WMC,Westlake Medical Center,33
+201605,05/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,70
+201605,05/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,260
+201605,05/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,69
+201605,05/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,135
+201605,05/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,817
+201605,05/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,83
+201605,05/01/2016 12:00:00 AM,OTH,Other/Missing,22
+201605,05/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1507
+201605,05/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,10
+201605,05/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,13
+201605,05/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,894
+201605,05/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,23
+201605,05/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,290
+201605,05/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,591
+201605,05/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,39
+201605,05/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,53
+201605,05/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,240
+201605,05/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,25
+201605,05/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,46
+201605,05/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1534
+201605,05/01/2016 12:00:00 AM,WMC,Westlake Medical Center,32
+201606,06/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,85
+201606,06/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,211
+201606,06/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,52
+201606,06/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,139
+201606,06/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,745
+201606,06/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,80
+201606,06/01/2016 12:00:00 AM,OTH,Other/Missing,12
+201606,06/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1492
+201606,06/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,9
+201606,06/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,14
+201606,06/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,884
+201606,06/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,31
+201606,06/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,259
+201606,06/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,565
+201606,06/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,41
+201606,06/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,67
+201606,06/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,260
+201606,06/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,21
+201606,06/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,49
+201606,06/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1557
+201606,06/01/2016 12:00:00 AM,WMC,Westlake Medical Center,45
+201607,07/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,71
+201607,07/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,180
+201607,07/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,70
+201607,07/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,132
+201607,07/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,791
+201607,07/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,81
+201607,07/01/2016 12:00:00 AM,OTH,Other/Missing,13
+201607,07/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1527
+201607,07/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,3
+201607,07/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,13
+201607,07/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,881
+201607,07/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,37
+201607,07/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,299
+201607,07/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,582
+201607,07/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,56
+201607,07/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,51
+201607,07/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,218
+201607,07/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,37
+201607,07/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,41
+201607,07/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1549
+201607,07/01/2016 12:00:00 AM,WMC,Westlake Medical Center,28
+201608,08/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,90
+201608,08/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,193
+201608,08/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,53
+201608,08/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,143
+201608,08/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,842
+201608,08/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,71
+201608,08/01/2016 12:00:00 AM,OTH,Other/Missing,8
+201608,08/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1466
+201608,08/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,4
+201608,08/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,15
+201608,08/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,858
+201608,08/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,25
+201608,08/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,265
+201608,08/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,606
+201608,08/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,44
+201608,08/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,48
+201608,08/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,224
+201608,08/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,22
+201608,08/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,29
+201608,08/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1559
+201608,08/01/2016 12:00:00 AM,WMC,Westlake Medical Center,30
+201609,09/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,77
+201609,09/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,214
+201609,09/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,58
+201609,09/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,133
+201609,09/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,749
+201609,09/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,78
+201609,09/01/2016 12:00:00 AM,OTH,Other/Missing,21
+201609,09/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1442
+201609,09/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,5
+201609,09/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,14
+201609,09/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,821
+201609,09/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,26
+201609,09/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,246
+201609,09/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,622
+201609,09/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,53
+201609,09/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,66
+201609,09/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,200
+201609,09/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,30
+201609,09/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,42
+201609,09/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1464
+201609,09/01/2016 12:00:00 AM,WMC,Westlake Medical Center,32
+201610,10/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,67
+201610,10/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,213
+201610,10/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,64
+201610,10/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,118
+201610,10/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,841
+201610,10/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,94
+201610,10/01/2016 12:00:00 AM,OTH,Other/Missing,14
+201610,10/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1507
+201610,10/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,7
+201610,10/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,17
+201610,10/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,847
+201610,10/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,32
+201610,10/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,244
+201610,10/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,643
+201610,10/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,40
+201610,10/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,59
+201610,10/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,214
+201610,10/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,36
+201610,10/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,45
+201610,10/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1625
+201610,10/01/2016 12:00:00 AM,WMC,Westlake Medical Center,34
+201611,11/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,71
+201611,11/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,205
+201611,11/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,41
+201611,11/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,138
+201611,11/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,808
+201611,11/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,72
+201611,11/01/2016 12:00:00 AM,OTH,Other/Missing,13
+201611,11/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1337
+201611,11/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,5
+201611,11/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,8
+201611,11/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,793
+201611,11/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,15
+201611,11/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,242
+201611,11/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,639
+201611,11/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,56
+201611,11/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,51
+201611,11/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,220
+201611,11/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,30
+201611,11/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,39
+201611,11/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1485
+201611,11/01/2016 12:00:00 AM,WMC,Westlake Medical Center,26
+201612,12/01/2016 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,77
+201612,12/01/2016 12:00:00 AM,DCMC,Dell Children's Medical Center,227
+201612,12/01/2016 12:00:00 AM,HHOA,Heart Hospital of Austin,56
+201612,12/01/2016 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,146
+201612,12/01/2016 12:00:00 AM,NAMC,North Austin Medical Center,821
+201612,12/01/2016 12:00:00 AM,NAPC,North Austin - PEDI ER,69
+201612,12/01/2016 12:00:00 AM,OTH,Other/Missing,12
+201612,12/01/2016 12:00:00 AM,SAMC,South Austin Medical Center,1445
+201612,12/01/2016 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,4
+201612,12/01/2016 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,8
+201612,12/01/2016 12:00:00 AM,SDMC,Saint David's Medical Center,788
+201612,12/01/2016 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,23
+201612,12/01/2016 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,246
+201612,12/01/2016 12:00:00 AM,SMC,Seton Medical Center Austin,602
+201612,12/01/2016 12:00:00 AM,SMCH,Seton Medical Center Hays,55
+201612,12/01/2016 12:00:00 AM,SMCW,Seton Medical Center Williamson,47
+201612,12/01/2016 12:00:00 AM,SNW,Seton Northwest Hospital,226
+201612,12/01/2016 12:00:00 AM,SSW,Seton Southwest Hospital,44
+201612,12/01/2016 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,46
+201612,12/01/2016 12:00:00 AM,UMCB,University Medical Center Brackenridge,1606
+201612,12/01/2016 12:00:00 AM,WMC,Westlake Medical Center,20
+201701,01/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,65
+201701,01/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,211
+201701,01/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,64
+201701,01/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,163
+201701,01/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,755
+201701,01/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,74
+201701,01/01/2017 12:00:00 AM,OTH,Other/Missing,23
+201701,01/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1396
+201701,01/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,2
+201701,01/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,11
+201701,01/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,856
+201701,01/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,30
+201701,01/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,240
+201701,01/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,633
+201701,01/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,50
+201701,01/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,44
+201701,01/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,264
+201701,01/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,15
+201701,01/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,49
+201701,01/01/2017 12:00:00 AM,UMCB,University Medical Center Brackenridge,1587
+201701,01/01/2017 12:00:00 AM,WMC,Westlake Medical Center,17
+201702,02/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,72
+201702,02/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,232
+201702,02/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,64
+201702,02/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,141
+201702,02/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,692
+201702,02/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,70
+201702,02/01/2017 12:00:00 AM,OTH,Other/Missing,98
+201702,02/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1201
+201702,02/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,3
+201702,02/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,10
+201702,02/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,757
+201702,02/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,13
+201702,02/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,202
+201702,02/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,597
+201702,02/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,57
+201702,02/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,45
+201702,02/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,224
+201702,02/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,18
+201702,02/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,37
+201702,02/01/2017 12:00:00 AM,UMCB,University Medical Center Brackenridge,1559
+201702,02/01/2017 12:00:00 AM,WMC,Westlake Medical Center,21
+201703,03/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,79
+201703,03/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,221
+201703,03/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,53
+201703,03/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,145
+201703,03/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,788
+201703,03/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,77
+201703,03/01/2017 12:00:00 AM,OTH,Other/Missing,28
+201703,03/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1507
+201703,03/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,6
+201703,03/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,15
+201703,03/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,844
+201703,03/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,16
+201703,03/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,227
+201703,03/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,640
+201703,03/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,59
+201703,03/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,50
+201703,03/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,282
+201703,03/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,24
+201703,03/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,38
+201703,03/01/2017 12:00:00 AM,UMCB,University Medical Center Brackenridge,1734
+201703,03/01/2017 12:00:00 AM,WMC,Westlake Medical Center,26
+201704,04/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,64
+201704,04/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,200
+201704,04/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,70
+201704,04/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,153
+201704,04/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,757
+201704,04/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,75
+201704,04/01/2017 12:00:00 AM,OTH,Other/Missing,20
+201704,04/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1438
+201704,04/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,7
+201704,04/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,6
+201704,04/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,865
+201704,04/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,24
+201704,04/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,218
+201704,04/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,656
+201704,04/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,38
+201704,04/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,61
+201704,04/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,247
+201704,04/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,22
+201704,04/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,29
+201704,04/01/2017 12:00:00 AM,UMCB,University Medical Center Brackenridge,1612
+201704,04/01/2017 12:00:00 AM,WMC,Westlake Medical Center,30
+201705,05/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,77
+201705,05/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,214
+201705,05/01/2017 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,519
+201705,05/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,68
+201705,05/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,157
+201705,05/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,746
+201705,05/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,67
+201705,05/01/2017 12:00:00 AM,OTH,Other/Missing,23
+201705,05/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1415
+201705,05/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,4
+201705,05/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,9
+201705,05/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,811
+201705,05/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,18
+201705,05/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,220
+201705,05/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,623
+201705,05/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,79
+201705,05/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,46
+201705,05/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,247
+201705,05/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,31
+201705,05/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,46
+201705,05/01/2017 12:00:00 AM,UMCB,University Medical Center Brackenridge,1099
+201705,05/01/2017 12:00:00 AM,WMC,Westlake Medical Center,28
+201706,06/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,71
+201706,06/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,202
+201706,06/01/2017 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1579
+201706,06/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,64
+201706,06/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,134
+201706,06/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,761
+201706,06/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,57
+201706,06/01/2017 12:00:00 AM,OTH,Other/Missing,27
+201706,06/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1443
+201706,06/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,4
+201706,06/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,11
+201706,06/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,683
+201706,06/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,19
+201706,06/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,226
+201706,06/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,609
+201706,06/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,62
+201706,06/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,39
+201706,06/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,256
+201706,06/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,32
+201706,06/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,27
+201706,06/01/2017 12:00:00 AM,UMCB,University Medical Center Brackenridge,40
+201706,06/01/2017 12:00:00 AM,WMC,Westlake Medical Center,21
+201707,07/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,66
+201707,07/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,189
+201707,07/01/2017 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1700
+201707,07/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,39
+201707,07/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,165
+201707,07/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,786
+201707,07/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,47
+201707,07/01/2017 12:00:00 AM,OTH,Other/Missing,25
+201707,07/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1463
+201707,07/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,7
+201707,07/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,10
+201707,07/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,673
+201707,07/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,28
+201707,07/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,248
+201707,07/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,611
+201707,07/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,58
+201707,07/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,37
+201707,07/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,245
+201707,07/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,20
+201707,07/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,38
+201707,07/01/2017 12:00:00 AM,UMCB,University Medical Center Brackenridge,8
+201707,07/01/2017 12:00:00 AM,WMC,Westlake Medical Center,18
+201708,08/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,85
+201708,08/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,182
+201708,08/01/2017 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1675
+201708,08/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,55
+201708,08/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,139
+201708,08/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,799
+201708,08/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,60
+201708,08/01/2017 12:00:00 AM,OTH,Other/Missing,13
+201708,08/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1484
+201708,08/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,4
+201708,08/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,9
+201708,08/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,738
+201708,08/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,20
+201708,08/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,239
+201708,08/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,601
+201708,08/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,63
+201708,08/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,43
+201708,08/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,292
+201708,08/01/2017 12:00:00 AM,SPED,Seton Psych ED,5
+201708,08/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,34
+201708,08/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,30
+201708,08/01/2017 12:00:00 AM,WMC,Westlake Medical Center,20
+201709,09/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,63
+201709,09/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,209
+201709,09/01/2017 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1752
+201709,09/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,57
+201709,09/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,167
+201709,09/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,752
+201709,09/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,89
+201709,09/01/2017 12:00:00 AM,OTH,Other/Missing,22
+201709,09/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1400
+201709,09/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,11
+201709,09/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,13
+201709,09/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,734
+201709,09/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,23
+201709,09/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,210
+201709,09/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,599
+201709,09/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,67
+201709,09/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,54
+201709,09/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,276
+201709,09/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,36
+201709,09/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,40
+201709,09/01/2017 12:00:00 AM,WMC,Westlake Medical Center,13
+201710,10/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,62
+201710,10/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,220
+201710,10/01/2017 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1765
+201710,10/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,47
+201710,10/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,154
+201710,10/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,697
+201710,10/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,63
+201710,10/01/2017 12:00:00 AM,OTH,Other/Missing,18
+201710,10/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1438
+201710,10/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,7
+201710,10/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,9
+201710,10/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,735
+201710,10/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,11
+201710,10/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,180
+201710,10/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,601
+201710,10/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,64
+201710,10/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,27
+201710,10/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,287
+201710,10/01/2017 12:00:00 AM,SPED,Seton Psych ED,1
+201710,10/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,36
+201710,10/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,25
+201710,10/01/2017 12:00:00 AM,WMC,Westlake Medical Center,19
+201711,11/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,54
+201711,11/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,245
+201711,11/01/2017 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1601
+201711,11/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,39
+201711,11/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,133
+201711,11/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,663
+201711,11/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,63
+201711,11/01/2017 12:00:00 AM,OTH,Other/Missing,14
+201711,11/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1326
+201711,11/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,4
+201711,11/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,8
+201711,11/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,660
+201711,11/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,4
+201711,11/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,182
+201711,11/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,572
+201711,11/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,81
+201711,11/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,22
+201711,11/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,232
+201711,11/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,19
+201711,11/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,24
+201711,11/01/2017 12:00:00 AM,WMC,Westlake Medical Center,11
+201712,12/01/2017 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,58
+201712,12/01/2017 12:00:00 AM,DCMC,Dell Children's Medical Center,215
+201712,12/01/2017 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1612
+201712,12/01/2017 12:00:00 AM,HHOA,Heart Hospital of Austin,42
+201712,12/01/2017 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,198
+201712,12/01/2017 12:00:00 AM,NAMC,North Austin Medical Center,747
+201712,12/01/2017 12:00:00 AM,NAPC,North Austin - PEDI ER,72
+201712,12/01/2017 12:00:00 AM,OTH,Other/Missing,8
+201712,12/01/2017 12:00:00 AM,SAMC,South Austin Medical Center,1375
+201712,12/01/2017 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,2
+201712,12/01/2017 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,4
+201712,12/01/2017 12:00:00 AM,SDMC,Saint David's Medical Center,746
+201712,12/01/2017 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,8
+201712,12/01/2017 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,185
+201712,12/01/2017 12:00:00 AM,SMC,Seton Medical Center Austin,559
+201712,12/01/2017 12:00:00 AM,SMCH,Seton Medical Center Hays,62
+201712,12/01/2017 12:00:00 AM,SMCW,Seton Medical Center Williamson,11
+201712,12/01/2017 12:00:00 AM,SNW,Seton Northwest Hospital,298
+201712,12/01/2017 12:00:00 AM,SSW,Seton Southwest Hospital,23
+201712,12/01/2017 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,25
+201712,12/01/2017 12:00:00 AM,WMC,Westlake Medical Center,21
+201801,01/01/2018 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,86
+201801,01/01/2018 12:00:00 AM,DCMC,Dell Children's Medical Center,224
+201801,01/01/2018 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1757
+201801,01/01/2018 12:00:00 AM,HHOA,Heart Hospital of Austin,62
+201801,01/01/2018 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,194
+201801,01/01/2018 12:00:00 AM,NAMC,North Austin Medical Center,736
+201801,01/01/2018 12:00:00 AM,NAPC,North Austin - PEDI ER,57
+201801,01/01/2018 12:00:00 AM,OTH,Other/Missing,15
+201801,01/01/2018 12:00:00 AM,SAMC,South Austin Medical Center,1463
+201801,01/01/2018 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,2
+201801,01/01/2018 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,8
+201801,01/01/2018 12:00:00 AM,SDMC,Saint David's Medical Center,841
+201801,01/01/2018 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,9
+201801,01/01/2018 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,195
+201801,01/01/2018 12:00:00 AM,SMC,Seton Medical Center Austin,664
+201801,01/01/2018 12:00:00 AM,SMCH,Seton Medical Center Hays,86
+201801,01/01/2018 12:00:00 AM,SMCW,Seton Medical Center Williamson,13
+201801,01/01/2018 12:00:00 AM,SNW,Seton Northwest Hospital,291
+201801,01/01/2018 12:00:00 AM,SSW,Seton Southwest Hospital,29
+201801,01/01/2018 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,31
+201801,01/01/2018 12:00:00 AM,WMC,Westlake Medical Center,15
+201802,02/01/2018 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,63
+201802,02/01/2018 12:00:00 AM,DCMC,Dell Children's Medical Center,209
+201802,02/01/2018 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1537
+201802,02/01/2018 12:00:00 AM,HHOA,Heart Hospital of Austin,58
+201802,02/01/2018 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,157
+201802,02/01/2018 12:00:00 AM,NAMC,North Austin Medical Center,625
+201802,02/01/2018 12:00:00 AM,NAPC,North Austin - PEDI ER,58
+201802,02/01/2018 12:00:00 AM,OTH,Other/Missing,13
+201802,02/01/2018 12:00:00 AM,SAMC,South Austin Medical Center,1242
+201802,02/01/2018 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,6
+201802,02/01/2018 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,9
+201802,02/01/2018 12:00:00 AM,SDMC,Saint David's Medical Center,678
+201802,02/01/2018 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,6
+201802,02/01/2018 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,165
+201802,02/01/2018 12:00:00 AM,SMC,Seton Medical Center Austin,581
+201802,02/01/2018 12:00:00 AM,SMCH,Seton Medical Center Hays,69
+201802,02/01/2018 12:00:00 AM,SMCW,Seton Medical Center Williamson,18
+201802,02/01/2018 12:00:00 AM,SNW,Seton Northwest Hospital,283
+201802,02/01/2018 12:00:00 AM,SSW,Seton Southwest Hospital,29
+201802,02/01/2018 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,40
+201802,02/01/2018 12:00:00 AM,WMC,Westlake Medical Center,14
+201803,03/01/2018 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,82
+201803,03/01/2018 12:00:00 AM,DCMC,Dell Children's Medical Center,237
+201803,03/01/2018 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1653
+201803,03/01/2018 12:00:00 AM,HHOA,Heart Hospital of Austin,50
+201803,03/01/2018 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,139
+201803,03/01/2018 12:00:00 AM,NAMC,North Austin Medical Center,730
+201803,03/01/2018 12:00:00 AM,NAPC,North Austin - PEDI ER,52
+201803,03/01/2018 12:00:00 AM,OTH,Other/Missing,11
+201803,03/01/2018 12:00:00 AM,SAMC,South Austin Medical Center,1303
+201803,03/01/2018 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,4
+201803,03/01/2018 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,12
+201803,03/01/2018 12:00:00 AM,SDMC,Saint David's Medical Center,704
+201803,03/01/2018 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,8
+201803,03/01/2018 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,187
+201803,03/01/2018 12:00:00 AM,SMC,Seton Medical Center Austin,623
+201803,03/01/2018 12:00:00 AM,SMCH,Seton Medical Center Hays,73
+201803,03/01/2018 12:00:00 AM,SMCW,Seton Medical Center Williamson,14
+201803,03/01/2018 12:00:00 AM,SNW,Seton Northwest Hospital,279
+201803,03/01/2018 12:00:00 AM,SSW,Seton Southwest Hospital,27
+201803,03/01/2018 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,22
+201803,03/01/2018 12:00:00 AM,WMC,Westlake Medical Center,19
+201804,04/01/2018 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,80
+201804,04/01/2018 12:00:00 AM,DCMC,Dell Children's Medical Center,213
+201804,04/01/2018 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1655
+201804,04/01/2018 12:00:00 AM,HHOA,Heart Hospital of Austin,50
+201804,04/01/2018 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,154
+201804,04/01/2018 12:00:00 AM,NAMC,North Austin Medical Center,686
+201804,04/01/2018 12:00:00 AM,NAPC,North Austin - PEDI ER,46
+201804,04/01/2018 12:00:00 AM,OTH,Other/Missing,15
+201804,04/01/2018 12:00:00 AM,SAMC,South Austin Medical Center,1360
+201804,04/01/2018 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,6
+201804,04/01/2018 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,5
+201804,04/01/2018 12:00:00 AM,SDMC,Saint David's Medical Center,671
+201804,04/01/2018 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,4
+201804,04/01/2018 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,162
+201804,04/01/2018 12:00:00 AM,SMC,Seton Medical Center Austin,582
+201804,04/01/2018 12:00:00 AM,SMCH,Seton Medical Center Hays,59
+201804,04/01/2018 12:00:00 AM,SMCW,Seton Medical Center Williamson,15
+201804,04/01/2018 12:00:00 AM,SNW,Seton Northwest Hospital,240
+201804,04/01/2018 12:00:00 AM,SSW,Seton Southwest Hospital,25
+201804,04/01/2018 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,23
+201804,04/01/2018 12:00:00 AM,WMC,Westlake Medical Center,18
+201805,05/01/2018 12:00:00 AM,CPRMC,Cedar Park Regional Medical Center,56
+201805,05/01/2018 12:00:00 AM,DCMC,Dell Children's Medical Center,163
+201805,05/01/2018 12:00:00 AM,DSMC,Dell Seton Medical Center at UT,1702
+201805,05/01/2018 12:00:00 AM,HHOA,Heart Hospital of Austin,55
+201805,05/01/2018 12:00:00 AM,LRMC,Baylor Scott and White - Lakeway,186
+201805,05/01/2018 12:00:00 AM,NAMC,North Austin Medical Center,719
+201805,05/01/2018 12:00:00 AM,NAPC,North Austin - PEDI ER,68
+201805,05/01/2018 12:00:00 AM,OTH,Other/Missing,20
+201805,05/01/2018 12:00:00 AM,SAMC,South Austin Medical Center,1475
+201805,05/01/2018 12:00:00 AM,SDB,Saint David's Emergency Center - BeeCave,2
+201805,05/01/2018 12:00:00 AM,SDCP,Saint David's Emergency Center - Cedar Park,12
+201805,05/01/2018 12:00:00 AM,SDMC,Saint David's Medical Center,745
+201805,05/01/2018 12:00:00 AM,SDP,Saint David's Emergency Center - Pflugerville,3
+201805,05/01/2018 12:00:00 AM,SDRR,Saint David's Round Rock Medical Center,212
+201805,05/01/2018 12:00:00 AM,SMC,Seton Medical Center Austin,698
+201805,05/01/2018 12:00:00 AM,SMCH,Seton Medical Center Hays,78
+201805,05/01/2018 12:00:00 AM,SMCW,Seton Medical Center Williamson,24
+201805,05/01/2018 12:00:00 AM,SNW,Seton Northwest Hospital,314
+201805,05/01/2018 12:00:00 AM,SSW,Seton Southwest Hospital,20
+201805,05/01/2018 12:00:00 AM,SWMC,Scott & White Hospital - Round Rock,35
+201805,05/01/2018 12:00:00 AM,WMC,Westlake Medical Center,18

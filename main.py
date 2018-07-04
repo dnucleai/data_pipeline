@@ -19,7 +19,10 @@ def main():
         scraper = DataDotGovScraper(query)
         packages = scraper.get_packages()
         for package in packages:
-            scraper.ingest_dataset(package)
+            try:
+                scraper.ingest_dataset(package)
+            except:
+                print("Could not load data.")
     elif command == "ingest_by_package_name":
         package = args[1]
         DataDotGovScraper(None).ingest_dataset(package)

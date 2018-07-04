@@ -2,19 +2,11 @@ import csv
 import re
 import sys
 import urllib2
-import string
-
-from nltk.corpus import stopwords
-from nltk.stem.wordnet import WordNetLemmatizer
 
 # CSV limit has failed for datasets
 csv.field_size_limit(sys.maxsize)
 
 class CSVParser:
-    STOP_WORDS = set(stopwords.words('english'))
-    CHARACTERS_TO_EXCLUDE = set(string.punctuation)
-    LEMMA = WordNetLemmatizer()
-
     def __init__(self):
         pass
 

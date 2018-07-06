@@ -13,13 +13,16 @@ class Cleaner:
     STOP_WORDS = set(stopwords.words('english'))
     CHARACTERS_TO_EXCLUDE = set(string.punctuation)
     LEMMA = WordNetLemmatizer()
+    INDEX_FORBIDDEN_CHARS = [" ", "\"", "*", "\\", "<", "|", ",", ">", "/", "?"]
 
     def __init__(self):
         pass
 
     @staticmethod
     def format_es_fields(text):
-        return text.lower().replace(" ", "_")
+        for forbidden in Cleaner.INDEX_FORBIDDEN_CHARS:
+            text = text.lower().replace(forbidden, "_")
+        return text
 
     @staticmethod
     def clean(text):

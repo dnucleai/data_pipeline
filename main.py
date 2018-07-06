@@ -17,9 +17,10 @@ def main():
     elif command == "ingest_data_gov_by_query":
         query = args[1]
         scraper = DataDotGovScraper(query)
-        packages = scraper.get_packages()
+        packages = scraper.get_packages()[1080:]
         for package in packages:
             try:
+                print("Getting details for " + package)
                 scraper.ingest_dataset(package)
             except:
                 print("Could not load data.")

@@ -1,2 +1,5 @@
 .idea/
+*.swp
+*.pkl
+*.tensor
 *.pyc

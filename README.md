@@ -12,10 +12,13 @@ The following are the APIs currently supported as well as CLI examples:
   * Downloads the data specified by the id as a panda dataframe.
   * `./main.py -d "filgZ2QBr5XMuPgIx4DZ"` where filgZ2QBr5XMuPgIx4DZ is the _id returned by search. The
   example _id will be stored in the current working directory as `filgZ2QBr5XMuPgIx4DZ_dataframe.pkl`
-* download_and_tensorize
+* `download_and_tensorize`
   * Downloads the data, one hot encodes it, coerces it to floats, and saves it as a pyTorch tensor.
   * `./main.py -dt "filgZ2QBr5XMuPgIx4DZ"` where filgZ2QBr5XMuPgIx4DZ is the _id returned by search. The
   example _id will be stored in the current working directory as `filgZ2QBr5XMuPgIx4DZ.tensor`
+* `download_tensorize_two_way_split`
+  * Downloads the data, splits it randomly by rows and columns, one hot encodes it, coerces it to floats, and saves it as pyTorch tensor.
+  * `./main.py -dttws "https://data.wprdc.org/dataset/2cff4c07-423a-4b61-af08-7288fbb773eb/resource/b0c22ad4-7afb-496b-9500-3aebf91e67d6/download/toxics-release-inventory-pennsylvania-1987-2015.csv"`
 
 ## Setup Commands
 

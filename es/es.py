@@ -10,13 +10,18 @@ class ES:
     def __init__(self):
         self.client = Elasticsearch(self.ES_ENDPOINT, use_ssl=True, verify_certs=True, ca_certs=certifi.where())
 
+    # allegheny_county_air_quality gives broken csv
     def bulk_upload(self, documents):
         result = None
-        while result is None:
+        attempt = 0
+        while result is None and attempt < 5:
             try:
                 result = helpers.bulk(self.client, documents)
-            except:
+            except Exception as e:
+                print(e)
+                print("Retrying bulk upload...")
                 pass
+            attempt += 1
 
 
     def init_metadocument_index(self):

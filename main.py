@@ -49,9 +49,10 @@ def main():
         query = args.ingest_by_query[0]
         print("INFO: Ingesting all datasets related to %s." % query)
         scraper = DataDotGovScraper(query)
-        packages = scraper.get_packages()
+        packages = scraper.get_packages()[1080:]
         for package in packages:
             try:
+                print("Getting details for " + package)
                 scraper.ingest_dataset(package)
             except:
                 print("ERROR: Could not load data.")
